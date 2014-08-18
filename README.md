@@ -6,7 +6,7 @@ Uni assignment using Raphael Javascript Library - Very annoying music, you have 
 Assigmnent Brief:
 -----------------
 - Must show syncopation to annoying music
-- Must demonstrate an understanding of Javascript and the Rapahel API
+- Must demonstrate an understanding of Javascript and the Raphael API
 
 Play:
 -----
